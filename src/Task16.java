@@ -1,6 +1,7 @@
 public class Task16 {
     public static void main(String[] args) {
         System.out.println(sameStarChar("xy*yzz"));
+        System.out.println(sameStarChar("xy*zzz"));
 
     }
     public static boolean sameStarChar(String str) {
