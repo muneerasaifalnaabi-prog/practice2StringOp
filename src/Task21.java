@@ -13,7 +13,12 @@ public class Task21 {
             if (pos > 0) {
                 result += str.charAt(pos - 1);
             }
+            if (pos + word.length() < str.length()) {
+                result += str.charAt(pos + word.length());
+            }
+            pos += word.length();
         }
+        return result;
     }
 
 }
