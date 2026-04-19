@@ -8,6 +8,7 @@ public class Task10 {
         for (int i = 0; i < n; i++) {
             result += str;
         }
+        return result;
     }
 
     }
