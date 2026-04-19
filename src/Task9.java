@@ -1,6 +1,7 @@
 public class Task9 {
     public static void main(String[] args) {
         System.out.println(mixString("abc", "xyz"));
+        System.out.println(mixString("Hi", "There"));
 
 
 }
