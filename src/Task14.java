@@ -1,6 +1,7 @@
 public class Task14 {
     public static void main(String[] args) {
         System.out.println(xyzMiddle("AAxyzBB"));
+        System.out.println(xyzMiddle("AxyzBB"));
     }
     public static boolean xyzMiddle(String str) {
         int mid = str.length()/2;
