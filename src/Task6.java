@@ -4,8 +4,10 @@ public class Task6 {
     }
     public static Boolean xyzThere(String str ){
         if (str.contains("xyz") && !str.contains(".")){
-            re
+            return true;
+
         }
+        return false;
 
 
 
