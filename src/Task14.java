@@ -1,8 +1,8 @@
 public class Task14 {
     public static void main(String[] args) {
-
+        System.out.println(xyzMiddle("AAxyzBB"));
     }
-    public boolean xyzMiddle(String str) {
+    public static boolean xyzMiddle(String str) {
         int mid = str.length()/2;
 
         if(!str.contains("xyz")){
