@@ -1,7 +1,7 @@
 public class Task1 {
     public static void main(String[] args) {
         String result = "The";
-        System.out.println(doubleChar("The"));
+        System.out.println(doubleChar(result));
 
     }
     public static String doubleChar(String str ){
