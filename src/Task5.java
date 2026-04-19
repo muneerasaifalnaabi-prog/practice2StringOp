@@ -3,7 +3,10 @@ public class Task5 {
 
 
     }
-    public static Boolean countCode(String str ,String text){
+    public static Boolean endOther(String str ,String text){.
+
+        if (str.equalsIgnoreCase()
+
 
     }
 }
