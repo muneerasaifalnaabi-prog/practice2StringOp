@@ -9,7 +9,7 @@ public class Task15 {
         if (last == -1) return "";
 
 
-
+        return str.substring(first + 5, last);
 
 
     }
