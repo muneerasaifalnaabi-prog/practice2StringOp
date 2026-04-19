@@ -1,5 +1,6 @@
 public class Task19 {
     public static void main(String[] args) {
+        System.out.println(starOut("ab*cd"));
 
     }
 
