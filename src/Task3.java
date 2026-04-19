@@ -1,7 +1,7 @@
 public class Task3 {
     public static void main(String[] args) {
-        System.out.println("catdog");
-        System.out.println("catdog");
+        System.out.println(catDog("catdog"));
+        System.out.println(catDog("catcat"));
 
     }
     public static Boolean catDog(String str ){
