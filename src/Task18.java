@@ -3,6 +3,7 @@ public class Task18 {
 
     }
     public static String zipZap(String str) {
+        String result = "";
 
     }
 
