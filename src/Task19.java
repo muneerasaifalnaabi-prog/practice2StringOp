@@ -13,5 +13,6 @@ public class Task19 {
             }
             result += str.charAt(i);
         }
+        return result;
     }
 }
