@@ -11,6 +11,7 @@ public class Task19 {
                 i++;
                 continue;
             }
+            result += str.charAt(i);
         }
     }
 }
