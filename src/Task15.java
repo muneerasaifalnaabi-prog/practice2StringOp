@@ -3,6 +3,7 @@ public class Task15 {
 
     }
     public static String getSandwich(String str) {
+        int first = str.indexOf("bread");
 
     }
 }
