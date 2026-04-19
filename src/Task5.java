@@ -7,7 +7,10 @@ public class Task5 {
 
         str= str.toLowerCase();
         text = text.toLowerCase();
-
+        if (str.endsWith(text) || text.endsWith(str)) {
+            return true;
+        }
+        return false;
 
     }
 }
