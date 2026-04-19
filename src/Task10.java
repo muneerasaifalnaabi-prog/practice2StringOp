@@ -4,6 +4,7 @@ public class Task10 {
     }
     public static String repeatEnd(String str, int n) {
        str= str.substring(str.length() - n);
+        String result = "";
     }
 
     }
