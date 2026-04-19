@@ -6,6 +6,8 @@ public class Task1 {
 
         for (int i=0 ;i<str.length();i++){
             String result ="";
+            char c =str.charAt(i);
+            result+=c+c;
 
 
         }
