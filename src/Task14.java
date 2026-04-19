@@ -8,6 +8,10 @@ public class Task14 {
         if(!str.contains("xyz")){
             return false;
         }
+        else if (str.length() % 2 == 1){
+            return str.substring(mid-1, mid+2).equals("xyz");
+        }
+
 
     }
 
