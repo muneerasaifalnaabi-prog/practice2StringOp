@@ -9,6 +9,10 @@ public class Task21 {
         int pos = 0;
         while (pos <= str.length() - word.length()) {
             pos = str.indexOf(word, pos);
+
+            if (pos > 0) {
+                result += str.charAt(pos - 1);
+            }
         }
     }
 
