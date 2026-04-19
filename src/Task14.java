@@ -11,7 +11,10 @@ public class Task14 {
         else if (str.length() % 2 == 1){
             return str.substring(mid-1, mid+2).equals("xyz");
         }
-
+        else {
+            return str.substring(mid - 1, mid + 2).equals("xyz") ||
+                    str.substring(mid - 2, mid + 1).equals("xyz");
+        }
 
     }
 
