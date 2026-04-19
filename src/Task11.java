@@ -10,7 +10,7 @@ public class Task11 {
             result += str.substring(0, prefixLen);
             prefixLen--;
         }
-
+return result;
 
     }
 }
