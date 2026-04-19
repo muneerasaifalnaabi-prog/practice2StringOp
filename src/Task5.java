@@ -5,7 +5,8 @@ public class Task5 {
     }
     public static Boolean endOther(String str ,String text){.
 
-        if (str.equalsIgnoreCase()
+        str= str.toLowerCase();
+        text = text.toLowerCase();
 
 
     }
