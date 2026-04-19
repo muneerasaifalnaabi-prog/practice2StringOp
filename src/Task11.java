@@ -3,4 +3,7 @@ public class Task11 {
 
 
     }
+    public static String repeatFront(String str, int n) {
+
+    }
 }
