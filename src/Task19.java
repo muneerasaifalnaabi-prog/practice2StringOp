@@ -4,6 +4,7 @@ public class Task19 {
     }
 
     public static String starOut(String str) {
+        String result = "";
 
     }
 }
