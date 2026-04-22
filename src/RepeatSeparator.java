@@ -1,4 +1,4 @@
-public class Task12 {
+public class RepeatSeparator {
     public static void main(String[] args) {
         System.out.println(repeatSeparator("Word", "X", 3));
     }

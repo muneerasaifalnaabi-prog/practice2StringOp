@@ -1,4 +1,4 @@
-public class Task6 {
+public class XyzThere {
     public static void main(String[] args) {
         System.out.println(xyzThere("abcxyz"));
         System.out.println(xyzThere("abc.xyz"));

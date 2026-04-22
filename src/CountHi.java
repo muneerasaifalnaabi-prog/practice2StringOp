@@ -1,4 +1,4 @@
-public class Task2 {
+public class CountHi {
     public static void main(String[] args) {
         System.out.println(countHi("abc hi ho"));
         System.out.println(countHi("ABChi hi"));

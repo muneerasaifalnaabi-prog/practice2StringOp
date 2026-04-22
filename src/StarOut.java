@@ -1,4 +1,4 @@
-public class Task19 {
+public class StarOut {
     public static void main(String[] args) {
         System.out.println(starOut("ab*cd"));
         System.out.println(starOut("ab**cd"));
